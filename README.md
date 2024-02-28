@@ -25,45 +25,6 @@ To calculate the final number of apples, I need to:
 2) Add the number of apples shipped (20)
 </scratchpad>
 
-<subtraction>100, 10
-subtraction
-Calling subtraction! 100 10 90
-<scratchpad>
-Original number of apples: 100
-Number of apples sold: 10  
-Number of apples shipped: 20
-
-To calculate the final number of apples, I need to:
-1) Subtract the number of apples sold (10) from the original number (100) 
-2) Add the number of apples shipped (20)
-</scratchpad>
-
-
-
-
-
-                  <subtraction>100, 10</subtraction><function_result>90</function_result>
-
-
-
-
-
-
-
-
-<addition>90, 20
-addition
-Calling addition! 90 20 110
-<scratchpad>
-Original number of apples: 100
-Number of apples sold: 10  
-Number of apples shipped: 20
-
-To calculate the final number of apples, I need to:
-1) Subtract the number of apples sold (10) from the original number (100) 
-2) Add the number of apples shipped (20)
-</scratchpad>
-
 <subtraction>100, 10</subtraction><function_result>90</function_result>
 <addition>90, 20</addition><function_result>110</function_result
 >
