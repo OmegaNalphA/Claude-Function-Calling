@@ -8,7 +8,10 @@ This repository contains an approach to extend Claude 2.1's capabilities by inte
 1. Clone the repository locally.
 2. `pip install anthropic`
 3. Replace the `API_KEY` in `function-calling.py` with your own API key.
-4. Run `python function-calling.py` to start. 
+4. Run `python function-calling.py` to start. \
+
+## How it works
+Check out the thread here: https://twitter.com/WorldofAnshul/status/1762677179522113934
 
 ## Example
 ```
