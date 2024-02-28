@@ -38,8 +38,19 @@ To calculate the final number of apples, I need to:
 2) Add the number of apples shipped (20)
 </scratchpad>
 
-<subtraction>100, 10</subtraction><function_result>90</function_result
->
+
+
+
+
+                  <subtraction>100, 10</subtraction><function_result>90</function_result>
+
+
+
+
+
+
+
+
 <addition>90, 20
 addition
 Calling addition! 90 20 110

@@ -107,7 +107,7 @@ def query(message_history: List[Dict[str, str]]) -> str:
                     )
                     assistant_content += (
                         curr_content
-                        + f"</{stop_sequence}><function_result>{result}</function_result"
+                        + f"</{stop_sequence}><function_result>{result}</function_result>"
                     )
         elif message.stop_reason == "end_turn":
             assistant_content += curr_content
